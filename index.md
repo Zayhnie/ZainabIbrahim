@@ -4,9 +4,7 @@
 
 ### DATA EXPLORATION OF COVID-19 DATASET IN SQL
 
-[COVID-19 VACCINATIONS AND DEATHS](/https://github.com/Zayhnie/COVID-19-Deaths-And-Vaccinations)
-![COVID-19 Logo](/Zayhnie/ZainabIbrahim/blob/master/assets/css/download.jfif?raw=true)
-
+[COVID-19 VACCINATIONS AND DEATHS](www.github.com/Zayhnie/COVID-19-Deaths-And-Vaccinations)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
