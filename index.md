@@ -14,13 +14,13 @@
 [STORE SALES](http://github.com/Zayhnie/Dax-SuperStores-)
 #### In this project, insights were uncovered for the sales and profit for a store. 
 
-<img src="images/sales-icon-png.jpg?raw=true"/>
+<img src="images/powerbi sales and profit.png?raw=true"/>
 
 ---
 #### DATA WRANGLING AND CLEANING IN EXCEL
 [CAR INVENTORY](http://github.com/Zayhnie/Car-Inventory)
 
-<img src="images/carpicts.jfif?raw=true"/>
+<img src="images/carss.jpeg?raw=true"/>
 
 ---
 
@@ -33,8 +33,6 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-$ git init
 
 
 ---
