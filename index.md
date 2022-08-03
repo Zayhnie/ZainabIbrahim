@@ -3,14 +3,17 @@
 ---
 
 ### DATA EXPLORATION OF COVID-19 DATASET IN SQL
+[COVID-19 VACCINATIONS AND DEATHS](http://github.com/Zayhnie/COVID-19-Deaths-And-Vaccinations)
+#### In this project,I found out the percentage of population that were vaccinated against COVID, daily vaccinations
+#### and the death percentage including total death counts in Nigeria
 
-[COVID-19 VACCINATIONS AND DEATHS](www.github.com/Zayhnie/COVID-19-Deaths-And-Vaccinations)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/COVID IMAGE.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-! [Covid logo](/Zayhnie/ZainabIbrahim/blob/master/assets/css/download.jfif?raw=true)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### DATA VISUALIZATION OF SALES DATA IN EXCEL AND POWERBI
+[SUPERSTORES SALES](http://github.com/Zayhnie/Dax-SuperStores-)
+
+<img src="images/sales-icon-png.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
