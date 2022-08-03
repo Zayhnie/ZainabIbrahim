@@ -11,13 +11,16 @@
 
 ---
 ### DATA VISUALIZATION OF SALES DATA IN EXCEL AND POWERBI
-[SUPERSTORES SALES](http://github.com/Zayhnie/Dax-SuperStores-)
+[STORE SALES](http://github.com/Zayhnie/Dax-SuperStores-)
+#### In this project, insights were uncovered for the sales and profit for a store. 
 
 <img src="images/sales-icon-png.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### DATA WRANGLING AND CLEANING IN EXCEL
+[CAR INVENTORY](http://github.com/Zayhnie/Car-Inventory)
+
+<img src="images/carpicts.jfif?raw=true"/>
 
 ---
 
