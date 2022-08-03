@@ -2,13 +2,16 @@
 
 ---
 
-### SQL
+### DATA EXPLORATION OF COVID-19 DATASET IN SQL
 
-[Project 1 Title](/sample_page)
+[COVID-19 VACCINATIONS AND DEATHS](/https://github.com/Zayhnie/COVID-19-Deaths-And-Vaccinations)
+![COVID-19 Logo](/Zayhnie/ZainabIbrahim/blob/master/assets/css/download.jfif?raw=true)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+! [Covid logo](/Zayhnie/ZainabIbrahim/blob/master/assets/css/download.jfif?raw=true)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
